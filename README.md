@@ -30,11 +30,13 @@ On macOS, the first launch may require a right-click → **Open**.
 <p align="center">
   <img src="images/playlists.png" alt="Followed playlists, shows, and audiobooks" width="720" />
   &nbsp;
-  <img src="images/settings.png" alt="Download settings" width="720" />
+  <img src="images/yoto.png" alt="Yoto card editor linked to a playlist" width="720" />
 </p>
 
 <p align="center">
   <img src="images/player.png" alt="Built-in player with local playback" width="720" />
+  &nbsp;
+  <img src="images/settings.png" alt="Download settings" width="720" />
 </p>
 
 ---
@@ -45,6 +47,7 @@ On macOS, the first launch may require a right-click → **Open**.
 - **Downloads that finish** — Queue with live progress, retries, and MP3 / AAC / FLAC output with metadata and artwork
 - **Library** — Browse everything you’ve saved, check quality, and keep files organised
 - **Follow playlists & shows** — Remember sources and download only what’s missing (files are never deleted on Update)
+- **Yoto cards** — Link a followed playlist to a Yoto card, map tracks, and sync audio to the player
 - **Built-in player** — Play local files or stream from Spotify in the same bar
 - **Your language** — UI available in many languages, with light and dark themes
 - **Updates** — Check for new versions from inside the app (signed installers from this repository)

@@ -30,11 +30,13 @@ Sous macOS, le premier lancement peut nécessiter un clic droit → **Ouvrir**.
 <p align="center">
   <img src="images/playlists.png" alt="Playlists, shows et livres audio suivis" width="720" />
   &nbsp;
-  <img src="images/settings.png" alt="Réglages de téléchargement" width="720" />
+  <img src="images/yoto.png" alt="Éditeur de carte Yoto lié à une playlist" width="720" />
 </p>
 
 <p align="center">
   <img src="images/player.png" alt="Lecteur intégré" width="720" />
+  &nbsp;
+  <img src="images/settings.png" alt="Réglages de téléchargement" width="720" />
 </p>
 
 ---
@@ -45,6 +47,7 @@ Sous macOS, le premier lancement peut nécessiter un clic droit → **Ouvrir**.
 - **Téléchargements fiables** — File d’attente avec progression, retries, et sortie MP3 / AAC / FLAC avec métadonnées et pochette
 - **Bibliothèque** — Retrouvez tout ce que vous avez enregistré, contrôlez la qualité, organisez vos fichiers
 - **Suivre playlists & shows** — Mémorisez des sources et ne téléchargez que ce qui manque (aucune suppression de fichiers à la mise à jour)
+- **Cartes Yoto** — Reliez une playlist suivie à une carte Yoto, mappez les pistes et synchronisez l’audio
 - **Lecteur intégré** — Écoutez vos fichiers locaux ou streamez depuis Spotify dans la même barre
 - **Votre langue** — Interface multilingue, thèmes clair et sombre
 - **Mises à jour** — Vérifiez les nouvelles versions depuis l’app (installeurs signés depuis ce dépôt)
