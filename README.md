@@ -2,7 +2,7 @@
 
 **[English](README.md)** · **[Français](README.fr.md)**
 
-Download Spotify tracks, albums, playlists, podcasts, and audiobooks to your computer — as MP3, AAC, or FLAC — with a clean desktop app for macOS and Windows.
+Download Spotify tracks, albums, playlists, podcasts, and audiobooks to your computer — as MP3, AAC, or FLAC — with a clean desktop app for macOS, Windows, and Linux.
 
 **[Download the latest release](https://github.com/Taurify-app/taurify-releases/releases/latest)**
 
@@ -10,8 +10,9 @@ Download Spotify tracks, albums, playlists, podcasts, and audiobooks to your com
 | --- | --- |
 | **macOS** (Apple Silicon) | `Taurify_*_aarch64.dmg` |
 | **Windows** | `Taurify_*-setup.exe` (an `.msi` is also attached) |
+| **Linux** (x86_64) | `Taurify_*_amd64.AppImage` (a `.deb` is also attached) |
 
-On macOS, the first launch may require a right-click → **Open**.
+On macOS, the first launch may require a right-click → **Open**. On Linux, mark the AppImage executable (`chmod +x`) before running it.
 
 ---
 

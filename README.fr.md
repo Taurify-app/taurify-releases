@@ -2,7 +2,7 @@
 
 **[English](README.md)** · **[Français](README.fr.md)**
 
-Téléchargez des titres, albums, playlists, podcasts et livres audio Spotify sur votre ordinateur — en MP3, AAC ou FLAC — avec une application de bureau claire pour macOS et Windows.
+Téléchargez des titres, albums, playlists, podcasts et livres audio Spotify sur votre ordinateur — en MP3, AAC ou FLAC — avec une application de bureau claire pour macOS, Windows et Linux.
 
 **[Télécharger la dernière version](https://github.com/Taurify-app/taurify-releases/releases/latest)**
 
@@ -10,8 +10,9 @@ Téléchargez des titres, albums, playlists, podcasts et livres audio Spotify su
 | --- | --- |
 | **macOS** (Apple Silicon) | `Taurify_*_aarch64.dmg` |
 | **Windows** | `Taurify_*-setup.exe` (un `.msi` est aussi fourni) |
+| **Linux** (x86_64) | `Taurify_*_amd64.AppImage` (un `.deb` est aussi fourni) |
 
-Sous macOS, le premier lancement peut nécessiter un clic droit → **Ouvrir**.
+Sous macOS, le premier lancement peut nécessiter un clic droit → **Ouvrir**. Sous Linux, rendez l’AppImage exécutable (`chmod +x`) avant de le lancer.
 
 ---
 
